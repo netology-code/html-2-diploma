@@ -4,7 +4,7 @@
  
  [](https://netology-code.github.io/html-2-diploma/sources/NOEMI_Modern.jpg)
  
-## Необходимые исходные файлы:
+## Необходимые исходные файлы
 
 - [Макет в формате .PSD](https://netology-code.github.io/html-2-diploma/sources/NOEMI_Modern.psd)
 - [Шрифты](https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans.zip)
