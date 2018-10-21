@@ -2,24 +2,7 @@
 
 В рамках дипломного проекта вам необходимо сверстать макет сайта, который выглядит следующим образом:
  
- [](https://netology-code.github.io/html-2-diploma/sources/NOEMI_Modern.jpg)
- 
-## Необходимые исходные файлы
-
-- [Макет в формате .PSD](https://netology-code.github.io/html-2-diploma/sources/NOEMI_Modern.psd)
-- [Шрифты](https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans.zip)
-
-- Для подключения к проекту в Codepen используйте следующие ссылки на шрифт:
-    - [https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff](https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff)
-    - [https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff](https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff)
-- В верстке на Codepen используйте следующие ссылки на иконки и лого:
-    - [https://netology-code.github.io/html-2-diploma/sources/images/noemi-logo.svg](https://netology-code.github.io/html-2-diploma/sources/images/noemi-logo.svg)
-    - [https://netology-code.github.io/html-2-diploma/sources/images/on-top.svg](https://netology-code.github.io/html-2-diploma/sources/images/on-top.svg)
-    - [https://netology-code.github.io/html-2-diploma/sources/images/social/001-pinterest.svg](https://netology-code.github.io/html-2-diploma/sources/images/social/001-pinterest.svg)
-    - [https://netology-code.github.io/html-2-diploma/sources/images/social/002-facebook-logo.svg](https://netology-code.github.io/html-2-diploma/sources/images/social/002-facebook-logo.svg)
-    - [https://netology-code.github.io/html-2-diploma/sources/images/social/003-tumblr.svg](https://netology-code.github.io/html-2-diploma/sources/images/sources/images/social/003-tumblr.svg)
-    - [https://netology-code.github.io/html-2-diploma/sources/images/social/003-tumblr.svg](https://netology-code.github.io/html-2-diploma/sources/images/sources/images/social/003-tumblr.svg)
-    - [https://netology-code.github.io/html-2-diploma/sources/images/social/004-twitter.svg](https://netology-code.github.io/html-2-diploma/sources/images/sources/images/social/004-twitter.svg)
+ ![](https://netology-code.github.io/html-2-diploma/sources/NOEMI_Modern.jpg)
 
 ## Требования к дипломному проекту
 
@@ -154,7 +137,8 @@
 
 ### Реализация дипломного проекта в Codepen
 
-Дипломный проект должен быть реализован на сайте Codepen. Вам не нужно создавать основной каркас страницы. Во вкладке HTML создавать сразу разметку страницы без элемента body. Для подключения декоративных элементов, изображений и шрифтов проекта используйте ссылки, описанные в разделе [Необходимые исходные файлы](#Необходимые-исходные-файлы)
+Дипломный проект должен быть реализован на сайте Codepen. Вам не нужно создавать основной каркас страницы. Во вкладке HTML создавать сразу разметку страницы без элемента body.
+Для подключения декоративных элементов, изображений и шрифтов проекта используйте ссылки из файла [Необходимые исходные файлы](./sources)
 
 
 
