@@ -3,7 +3,7 @@
 - [Макет в формате .PSD](https://netology-code.github.io/html-2-diploma/sources/NOEMI_Modern.psd)
 - [Шрифты](https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans.zip)
 
-## Для подключения к проекту в Codepen используйте следующие ссылки на шрифт:
+## Используйте следующие ссылки на шрифт для подключения к проекту в Codepen 
 - [https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff](https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff)
 - [https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff](https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff)
 
