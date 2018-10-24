@@ -28,6 +28,10 @@
 - [https://netology-code.github.io/html-2-diploma/sources/images/151.jpg](https://netology-code.github.io/html-2-diploma/sources/images/151.jpg)
 - [https://netology-code.github.io/html-2-diploma/sources/images/501.jpg](https://netology-code.github.io/html-2-diploma/sources/images/501.jpg)
 
+### Иконка поиска (увеличительное стекло):
+[https://netology-code.github.io/html-2-diploma/sources/images/search.svg](https://netology-code.github.io/html-2-diploma/sources/images/search.svg)
+
+
 ### Новости в нижней части страницы:
 - [https://netology-code.github.io/html-2-diploma/sources/images/13.jpg](https://netology-code.github.io/html-2-diploma/sources/images/13.jpg)
 - [https://netology-code.github.io/html-2-diploma/sources/images/photo-1453822858805-7c095c06011e.jpg](https://netology-code.github.io/html-2-diploma/sources/images/photo-1453822858805-7c095c06011e.jpg)
