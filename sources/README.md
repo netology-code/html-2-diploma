@@ -12,6 +12,10 @@
 ### Логотип:
 [https://netology-code.github.io/html-2-diploma/sources/images/noemi-logo.svg](https://netology-code.github.io/html-2-diploma/sources/images/noemi-logo.svg)
 
+### Баннер:
+
+- [https://netology-code.github.io/html-2-diploma/sources/images/banner-bg.jpg](https://netology-code.github.io/html-2-diploma/sources/images/banner-bg.jpg)
+
 ### Новости:
 
 - [https://netology-code.github.io/html-2-diploma/sources/images/last-post1.jpg](https://netology-code.github.io/html-2-diploma/sources/images/last-post1.jpg)
