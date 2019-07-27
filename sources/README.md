@@ -35,12 +35,6 @@
 ### Иконка поиска (увеличительное стекло):
 [https://netology-code.github.io/html-2-diploma/sources/images/search.svg](https://netology-code.github.io/html-2-diploma/sources/images/search.svg)
 
-
-### Новости в нижней части страницы:
-- [https://netology-code.github.io/html-2-diploma/sources/images/13.jpg](https://netology-code.github.io/html-2-diploma/sources/images/13.jpg)
-- [https://netology-code.github.io/html-2-diploma/sources/images/photo-1453822858805-7c095c06011e.jpg](https://netology-code.github.io/html-2-diploma/sources/images/photo-1453822858805-7c095c06011e.jpg)
-- [https://netology-code.github.io/html-2-diploma/sources/images/Woman-preparing-a-lunch-on-the-kitchen-table.jpg](https://netology-code.github.io/html-2-diploma/sources/images/Woman-preparing-a-lunch-on-the-kitchen-table.jpg)
-
 ### Социальные иконки:
 - [https://netology-code.github.io/html-2-diploma/sources/images/social/001-pinterest.svg](https://netology-code.github.io/html-2-diploma/sources/images/social/001-pinterest.svg)
 - [https://netology-code.github.io/html-2-diploma/sources/images/social/002-facebook-logo.svg](https://netology-code.github.io/html-2-diploma/sources/images/social/002-facebook-logo.svg)
