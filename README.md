@@ -2,7 +2,7 @@
 
 В рамках дипломного проекта вам необходимо сверстать макет сайта, который выглядит следующим образом:
  
- ![](https://netology-code.github.io/html-2-diploma/sources/NOEMI_Modern.jpg)
+ ![](https://netology-code.github.io/html-2-diploma/sources/NOEMI_Modern_ru.jpg)
 
 ## Требования к дипломному проекту
 
