@@ -1,6 +1,6 @@
 # Необходимые исходные файлы
 
-- [Макет в формате .PSD](https://netology-code.github.io/html-2-diploma/sources/NOEMI_Modern_ru.psd)
+- [Макет в формате .PSD](NOEMI_Modern_ru.psd)
 - [Шрифты](https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans.zip)
 
 ## Используйте следующие ссылки на шрифт для подключения к проекту в Codepen 
