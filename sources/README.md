@@ -36,6 +36,6 @@
 [https://netology-code.github.io/html-2-diploma/sources/images/search.svg](https://netology-code.github.io/html-2-diploma/sources/images/search.svg)
 
 ### Социальные иконки:
-- [https://netology-code.github.io/html-2-diploma/sources/images/social/001-pinterest.svg](https://netology-code.github.io/html-2-diploma/sources/images/social/001-pinterest.svg)
+- [https://netology-code.github.io/html-2-diploma/sources/images/social/001-dribbble.svg](https://netology-code.github.io/html-2-diploma/sources/images/social/001-dribbble.svg)
+- [https://netology-code.github.io/html-2-diploma/sources/images/social/002-pinterest.svg](https://netology-code.github.io/html-2-diploma/sources/images/social/002-pinterest.svg)
 - [https://netology-code.github.io/html-2-diploma/sources/images/social/003-tumblr.svg](https://netology-code.github.io/html-2-diploma/sources/images/social/003-tumblr.svg)
-- [https://netology-code.github.io/html-2-diploma/sources/images/social/004-twitter.svg](https://netology-code.github.io/html-2-diploma/sources/images/social/004-twitter.svg)
